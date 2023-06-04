@@ -1,70 +1,63 @@
-# Getting Started with Create React App
+# Talk2Transcribe
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Talk2Transcribe is a powerful and user-friendly speech-to-text converter application that allows you to effortlessly transform spoken words into written text. With Talk2Transcribe, you can easily convert your speech or voice into accurate and readable text, providing a seamless solution for various use cases.
 
-## Available Scripts
+## Website
 
-In the project directory, you can run:
+Check out the Talk2Transcribe website: [https://talk2transcribe.netlify.app/](https://talk2transcribe.netlify.app/)
 
-### `npm start`
+## Features
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- Real-time speech-to-text conversion: Experience instant and accurate conversion of your spoken words into written text.
+- Easy-to-use interface: Simply speak into the microphone, and see your words transcribed in real time.
+- Start/Stop control: Control the speech recognition process by starting and stopping the microphone input.
+- Reset transcript: Clear the current transcript and start afresh.
+- Copy functionality: Easily copy the transcribed text for further use or sharing.
+- Summary statistics: Get valuable insights into the text, including word count, character count, sentence count, and paragraph count.
+- Estimated reading time: See how long it would take to read the transcribed text.
+- Preview pane: View the transcribed text instantly in a dedicated preview pane.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## How to Use
 
-### `npm test`
+1. Open the Talk2Transcribe application in your web browser.
+2. Grant microphone access when prompted.
+3. Click the "START" button to begin speech recognition.
+4. Start speaking into the microphone, and your speech will be transcribed in real time.
+5. To stop speech recognition, click the "STOP" button.
+6. If needed, you can reset the transcript using the "RESET" button.
+7. To copy the transcribed text, click the "COPY" button.
+8. You can view the summary statistics, including word count, character count, sentence count, paragraph count, and estimated reading time, in the respective section.
+9. The transcribed text will be displayed in the preview pane. If no speech is detected, a default preview message will be shown.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Technologies Used
 
-### `npm run build`
+- React: A popular JavaScript library for building user interfaces.
+- react-speech-recognition: A React library for utilizing the Web Speech API and speech recognition capabilities.
+- react-use-clipboard: A React hook for copying text to the clipboard.
+- Material-UI: A popular UI component library for React applications.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Media
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Here, you can find screenshots and videos showcasing the working functionality of Talk2Transcribe.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Screenshots
 
-### `npm run eject`
+![Screenshot 1](![image](https://github.com/yashkhandelwal2203/Talk2Transcribe/assets/84733088/ca7c28c1-345b-403f-9d3f-5d788cc62f3f))
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+![Screenshot 2](![image](https://github.com/yashkhandelwal2203/Talk2Transcribe/assets/84733088/fc1bb839-61be-4b6a-b9f4-081bc764b348))
+![Screenshot_3](![image](https://github.com/yashkhandelwal2203/Talk2Transcribe/assets/84733088/a31a2b7c-af3e-4dc4-89c9-cf892b718afa))
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+Feel free to explore Talk2Transcribe and leverage its powerful speech-to-text conversion capabilities for your projects. For any questions or suggestions, please reach out to us at [yash.khandelwal456@gmail.com](mailto:yash.khandelwal456@gmail.com).
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
