@@ -42,11 +42,11 @@ Here, you can find screenshots and videos showcasing the working functionality o
 
 ### Screenshots
 
-![Screenshot 1](![image](https://github.com/yashkhandelwal2203/Talk2Transcribe/assets/84733088/ca7c28c1-345b-403f-9d3f-5d788cc62f3f))
+![Screenshot 1](![image](https://drive.google.com/file/d/1rt8ED_MrdRgAR5dd-wK5MvQAQqJcJn-s/view))
 
 
-![Screenshot 2](![image](https://github.com/yashkhandelwal2203/Talk2Transcribe/assets/84733088/fc1bb839-61be-4b6a-b9f4-081bc764b348))
-![Screenshot_3](![image](https://github.com/yashkhandelwal2203/Talk2Transcribe/assets/84733088/a31a2b7c-af3e-4dc4-89c9-cf892b718afa))
+![Screenshot 2](![image](https://drive.google.com/file/d/1qTYRSR3DxAmDrhGANnwVSc1GJ4UCTqLB/view))
+![Screenshot_3](![image](https://drive.google.com/file/d/1-eYGl_AyN0N_vUpZeyByFPQnrigd6uok/view))
 
 
 
