@@ -46,7 +46,7 @@ Here, you can find screenshots and videos showcasing the working functionality o
 
 
 ![Screenshot 2](![image](https://drive.google.com/file/d/1qTYRSR3DxAmDrhGANnwVSc1GJ4UCTqLB/view))
-![Screenshot_3](![image](https://drive.google.com/file/d/1-eYGl_AyN0N_vUpZeyByFPQnrigd6uok/view))
+![Screenshot_3](![image]([https://drive.google.com/file/d/1-eYGl_AyN0N_vUpZeyByFPQnrigd6uok/view](https://github-production-user-asset-6210df.s3.amazonaws.com/84733088/243183764-a31a2b7c-af3e-4dc4-89c9-cf892b718afa.png)))
 
 
 
