@@ -42,7 +42,8 @@ Here, you can find screenshots and videos showcasing the working functionality o
 
 ### Screenshots
 
-![Screenshot 1](![image](https://drive.google.com/file/d/1rt8ED_MrdRgAR5dd-wK5MvQAQqJcJn-s/view))
+![Screenshot 1](![image](![image1](https://github.com/yashkhandelwal2203/Talk2Transcribe/assets/84733088/aff85f5e-35e6-4b42-b136-319d3dee186b)
+))
 
 
 ![Screenshot 2](![image](https://drive.google.com/file/d/1qTYRSR3DxAmDrhGANnwVSc1GJ4UCTqLB/view))
